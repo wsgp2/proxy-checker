@@ -1,6 +1,9 @@
-# Proxy Checker 🔍
+# SergD Proxy Checker 🔍
 
 Профессиональный инструмент для проверки работоспособности HTTP/HTTPS/SOCKS прокси-серверов
+
+[![GitHub](https://img.shields.io/badge/GitHub-SergD_Proxy_Checker-blue.svg)](https://github.com/wsgp2/proxy-checker)
+[![Telegram](https://img.shields.io/badge/Telegram-@sergei__dyshkant-blue.svg)](https://t.me/sergei_dyshkant)
 
 ## ✨ Возможности
 
@@ -85,6 +88,12 @@ python proxy_checker.py \
 - matplotlib
 - rich
 
-## 👨‍💻 Автор
+## 🧠 Автор
 
-Разработчик: Sergei Dyshkant (SergD)
+**Разработчик**: [Sergei Dyshkant (SergD)](https://t.me/sergei_dyshkant)
+
+[![Telegram](https://img.shields.io/badge/Telegram-Связаться_со_мной-2CA5E0.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sergei_dyshkant)
+
+---
+
+<p align="center">© 2025 SergD. Все права защищены.</p>
