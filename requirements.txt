@@ -1,0 +1,6 @@
+aiohttp>=3.8.3
+aiohttp-socks>=0.7.1
+pandas>=1.5.0
+matplotlib>=3.6.0
+rich>=12.6.0
+argparse>=1.4.0
